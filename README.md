@@ -13,6 +13,8 @@ Na svých počítačích např. s VS Code
 |---|---|
 |Exercise1 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise1_student.ipynb)|
 
+Soubor → Uložit kopii na Disk (File → Save a copy in Drive).
+
 
 ### Aktivace `venv`
 
