@@ -13,6 +13,7 @@ Na svých počítačích např. s VS Code
 |---|---|
 |Exercise1 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise1_student.ipynb)|
 |Exercise3 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise3_empty.ipynb)|
+|Exercise4 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise4_empty.ipynb)|
 
 Soubor → Uložit kopii na Disk (File → Save a copy in Drive).
 
