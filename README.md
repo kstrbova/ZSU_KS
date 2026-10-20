@@ -15,6 +15,7 @@ Na svých počítačích např. s VS Code
 |Exercise3 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise3_empty.ipynb)|
 |Exercise4 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise4_empty.ipynb)|
 |Exercise5 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise5_GD.ipynb)| [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise5_GD_solutions.ipynb)|
+|Exercise6 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise6_trees_student2.ipynb)|
 
 Soubor → Uložit kopii na Disk (File → Save a copy in Drive).
 
