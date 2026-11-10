@@ -18,6 +18,7 @@ Na svých počítačích např. s VS Code
 |Exercise6 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise6_trees_student2.ipynb)|
 |Exercise7 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise7_boosting.ipynb)|
 |Exercise8 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise8_PCA_t-sne.ipynb)|
+|Exercise9 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise9_optuna_svm.ipynb)|
 |Soubor → Uložit kopii na Disk (File → Save a copy in Drive).
 
 
