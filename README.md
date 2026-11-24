@@ -21,6 +21,7 @@ Na svých počítačích např. s VS Code
 |Exercise9 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise9_optuna_svm.ipynb)|
 |Exercise10 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise10_neural_nets_homework.ipynb)|
 |Exercise11 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise11_regression.ipynb)|
+|Exercise11_ver2 | [Otevřít v Colabu](https://colab.research.google.com/github/kstrbova/ZSU_KS/blob/main/Exercise11_regression_ver2.ipynb)|
 |Soubor → Uložit kopii na Disk (File → Save a copy in Drive).
 
 
